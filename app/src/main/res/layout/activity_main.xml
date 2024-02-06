@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+    TextView
         android:layout_width="211dp"
         android:layout_height="13dp"
         android:text="Hello World!"
